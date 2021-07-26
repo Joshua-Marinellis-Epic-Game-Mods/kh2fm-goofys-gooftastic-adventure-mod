@@ -1,6 +1,9 @@
 # kh2fm-goofys-gooftastic-adventure-mod
 Repository for the Goofy's Gooftastic Adventure Mod for Kingdom Hearts 2 Final Mix
 
+Instructions for how to install the mod can be found in the 
+readme contained within the Goofy's Gooftastic Adventure folder.
+
 This mod was made as an educational project to learn about the inner workings of a complex video game.
 
 The mod was made through memory editting and the in-game text changes are

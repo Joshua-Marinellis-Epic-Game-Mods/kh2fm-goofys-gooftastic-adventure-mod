@@ -15,4 +15,39 @@ here is a tutorial I made: https://www.youtube.com/watch?v=EdIMreAz_Tk
 
 Kingdom Hearts 2 Final Mix is the intellectual Property of Disney.
 
-The PlayStation 2 BIOS is the intellectual property of Sony
+The PlayStation 2 BIOS is the intellectual property of Sony.
+
+This mod uses a modified version of the 
+Garden of Assemblage Randomizer mod, which was made by
+SonicShadowSilver2: https://twitter.com/Sonicshadowsil2
+
+Thanks to Num for teaching me all of the things
+they are very talented and you should check out the 
+stuff they make like the Mission 179 plando, it's insane. 
+
+Thanks to Key for one of the "final" bosses, very epic
+
+Thanks to RedBuddha, Num, Bulcon, Key, Fallen and Kangdide for playtesting 
+
+Thanks to Raisin for helping me evict Donald
+
+Thanks to Brion for helping with some codes.
+
+Thanks to Fallen and Delta-47 for helping me figure out the YML formatting.
+
+Thanks to GhostTheBoo for his amazing custom seed generator tool
+If your interested you can check that out here:
+https://ghosttheboo.github.io/custom-seed-generator/
+
+Thanks to all of the people who contributed to the kh2fm codes page on khvids.net.
+https://kh-vids.net/threads/kingdom-hearts-ii-final-mix-codes.117695/
+Credits copied from page:
+All credit goes to Skiller, Mutuki, Hiei-yyh, Pyriel, EvilMan_89, 
+AntiWeapon, carey (khkid1212), Erkz, NeoCloudstrife, Keytotruth,
+♥♦♣♠Luxord♥♦♣♠ and NarutoSuperKubii for fixing the thread, 
+and the entire KHV coder staff.
+
+Thanks to Square Enix and Disney for making an amazing video game.
+
+- a mod by Joshua Marinelli/jmari49
+

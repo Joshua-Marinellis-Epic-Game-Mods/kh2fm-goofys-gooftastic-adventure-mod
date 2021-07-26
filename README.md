@@ -9,7 +9,7 @@ achieved through an openkh patch containing a yml file with the text changes.
 It requires the OpenKH Mod Manager.
 
 This mod does not redistribute any copyrighted assets from the original game outside of 
-small values and IDs that are used to achieve the mods results.
+small values and IDs that are used to achieve the mods results and images of gameplay.
 
 Please only play this mod with a legally owned version of the game and PlayStation 2 Bios.
 If you would like to learn how to legally dump the game and Playstation 2 BIOS

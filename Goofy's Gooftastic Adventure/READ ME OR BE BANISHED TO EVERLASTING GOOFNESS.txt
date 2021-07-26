@@ -7,8 +7,9 @@ Setup-------------------------------------------------------------
 This mod requires: 
 *This version of the mod currently only works with the OpenKH Mod Manager*
 
+The OpenKH Mod Manager
 pcsx2 1.6/pcsx2-ex (setup with bios installed)
-A dumped copy of Kingdom Hearts 2
+A legally dumped copy of Kingdom Hearts 2
 
 Please only play this mod with an legally obtained copy of both 
 your ps2 bios and the game!

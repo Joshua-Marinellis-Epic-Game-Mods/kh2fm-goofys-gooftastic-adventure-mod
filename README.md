@@ -10,7 +10,7 @@ This mod does not redistribute any copyrighted assets from the original game out
 small values and IDs that are used to achieve the mods results.
 
 Please only play this mod with a legally owned version of the game and Playstation 2 Bios.
-If you would like to learn how to legally dump the game and Playstation 2 Bios
+If you would like to learn how to legally dump the game and Playstation 2 BIOS
 here is a tutorial I made: https://www.youtube.com/watch?v=EdIMreAz_Tk
 
 Kingdom Hearts 2 Final Mix is the intellectual Property of Disney.

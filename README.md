@@ -56,3 +56,12 @@ Thanks to Square Enix and Disney for making an amazing video game.
 
 - a mod by Joshua Marinelli/jmari49
 
+If you want to support me in my future projects you can follow me here, 
+I'd really appreciate it!
+Twitch: https://twitch.tv/joshuamarinelli
+Twitter: https://twitter.com/jmari49
+Discord: https://discord.gg/KWKHfaXfxh
+TikTok: http://tiktok.com/@joshuamarinelli
+Instagram: https://www.instagram.com/jmari49/
+
+

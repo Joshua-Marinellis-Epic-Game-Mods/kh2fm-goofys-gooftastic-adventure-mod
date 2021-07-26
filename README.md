@@ -6,6 +6,8 @@ This mod was made as an educational project to learn about the inner workings of
 The mod was made through memory editting and the in-game text changes are
 achieved through an openkh patch containing a yml file with the text changes.
 
+It requires the OpenKH Mod Manager.
+
 This mod does not redistribute any copyrighted assets from the original game outside of 
 small values and IDs that are used to achieve the mods results.
 

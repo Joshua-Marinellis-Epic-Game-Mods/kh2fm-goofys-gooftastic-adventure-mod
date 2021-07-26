@@ -28,6 +28,12 @@ hard for partner and totally deserves it.
 https://www.twitch.tv/sonicshadowsilver2
 *Dodge slash is highly recommended but not required.*
 
+The goof text.zip file is a OpenKH formatted text mod and will work
+with any language you have the game set too.
+
+To apply the patch hit the + button and then select the goof text.zip file.
+
+Make sure to tick it and put it at the top so that it goes above any translation patches.
 
 Objective---------------------------------------------------------
 

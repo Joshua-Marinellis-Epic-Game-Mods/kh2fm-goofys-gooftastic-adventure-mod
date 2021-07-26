@@ -30,7 +30,7 @@ https://www.twitch.tv/sonicshadowsilver2
 
 Objective---------------------------------------------------------
 
-Your goal is too find the three goof stones
+Your goal is too find the goof stones
 using the power of the goof juice.
 
 Some worlds have been taken over by Donald, 
@@ -46,12 +46,6 @@ If you fail to do so your game will softlock
 
 You will eventually fight boat pete, if you let go of the hook you
 will be softlocked, yes this is an intentional punishment
-
-Make sure to skip the cutscenes in Port Royal as some of them softlock
-
-The light cycle will reset you to the last safe room
-
-if you get a score of less then 30.
 
 
 Credits----------------------------------------------------------------

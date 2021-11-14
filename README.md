@@ -3,6 +3,8 @@ I receive no form of monetary compensation for this game mod.
 
 At the request of the rightful copyright holder this free mod will be taken down if so desired.
 
+Ninten's gameplay video of the mod: https://www.youtube.com/watch?v=MHF-H_Znf78
+
 THIS IS THE NO FLASHING VERSION OF GOOFY'S GOOFTASTIC ADVENTURE.
 THIS MEANS THERE ARE NO MODEL SWAPS IN THIS VERSION AS THIS WAS THE CAUSE OF THE FLASHING.
 

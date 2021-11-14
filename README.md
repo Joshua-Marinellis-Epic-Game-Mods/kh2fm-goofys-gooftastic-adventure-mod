@@ -118,9 +118,13 @@ Thanks to Square Enix and Disney for making this awesome game.
 
 If you want to support me in my future projects you can follow me here,
 I'd really appreciate it:
+
 Youtube: https://youtube.com/channel/UC56u0HUFmIFN7qcRe86PZyw
+
 Twitch: http://twitch.tv/joshuamarinelli
+
 Discord: https://discord.gg/tS8N4QtNJP
+
 Twitter: https://twitter.com/jmari49
 
 

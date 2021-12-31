@@ -1,4 +1,4 @@
-# kh2fm-goofys-gooftastic-adventure-mod
+# kh2fm-goofys-gooftastic-adventure-mod-final-goof-mix
 I receive no form of monetary compensation for this game mod.
 
 At the request of the rightful copyright holder this free mod will be taken down if so desired.
